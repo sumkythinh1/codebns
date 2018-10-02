@@ -1,0 +1,174 @@
+
+*******************************************************************************************************************************************
+03-10-3918 01:43:49.825> X-Mouse Button Control v2.17 (x64) Startup. Commandline ''
+03-10-3918 01:43:49.825> Running in high integrity mode (0x00003000)
+03-10-3918 01:43:49.825> Unable to find the default settings file 'G:\New folder\XMBCSettings.xml' (Error code 2: The system cannot find the file specified. )
+03-10-3918 01:43:49.825> HookDLL: Unable to load XML settings
+03-10-3918 01:43:49.825> Running on Microsoft Windows 10 Edition (build 14393), 64-bit, Hook Timeout: 200 ms
+03-10-3918 01:43:49.825> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+03-10-3918 01:43:49.825> Startup folder: 'G:\New folder\XMBCSettings.xml'
+03-10-3918 01:43:49.825> Enabling portable mode.
+03-10-3918 01:43:49.825> Creating/using settings file in 'G:\New folder\XMBCSettings.xml'
+03-10-3918 01:43:49.825> As X-Mouse Button Control is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+03-10-3918 01:43:49.827> Using keyboard language 0x04090409
+03-10-3918 01:43:52.235> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+03-10-3918 01:43:52.241> Unable to find the default settings file 'G:\New folder\XMBCSettings.xml' (Error code 2: The system cannot find the file specified. )
+03-10-3918 01:43:52.241> SetupDialog: Settings file 'G:\New folder\XMBCSettings.xml' does not exist!
+03-10-3918 01:43:52.645> GetLayerName: Layer 0 does not exist or has no name!
+03-10-3918 01:43:52.645> GetLayerName: Layer 0 does not exist or has no name!
+03-10-3918 01:43:52.645> GetLayerName: Layer 0 does not exist or has no name!
+03-10-3918 01:43:52.645> GetLayerName: Layer 0 does not exist or has no name!
+03-10-3918 01:43:52.651> GetLayerName: Layer 1 does not exist or has no name!
+03-10-3918 01:43:52.651> GetLayerName: Layer 1 does not exist or has no name!
+03-10-3918 01:43:52.651> GetLayerName: Layer 1 does not exist or has no name!
+03-10-3918 01:43:52.651> GetLayerName: Layer 1 does not exist or has no name!
+03-10-3918 01:43:52.657> GetLayerName: Layer 2 does not exist or has no name!
+03-10-3918 01:43:52.657> GetLayerName: Layer 2 does not exist or has no name!
+03-10-3918 01:43:52.657> GetLayerName: Layer 2 does not exist or has no name!
+03-10-3918 01:43:52.657> GetLayerName: Layer 2 does not exist or has no name!
+03-10-3918 01:43:52.662> GetLayerName: Layer 3 does not exist or has no name!
+03-10-3918 01:43:52.662> GetLayerName: Layer 3 does not exist or has no name!
+03-10-3918 01:43:52.662> GetLayerName: Layer 3 does not exist or has no name!
+03-10-3918 01:43:52.662> GetLayerName: Layer 3 does not exist or has no name!
+03-10-3918 01:43:52.666> GetLayerName: Layer 4 does not exist or has no name!
+03-10-3918 01:43:52.667> GetLayerName: Layer 4 does not exist or has no name!
+03-10-3918 01:43:52.667> GetLayerName: Layer 4 does not exist or has no name!
+03-10-3918 01:43:52.667> GetLayerName: Layer 4 does not exist or has no name!
+03-10-3918 01:43:52.670> GetLayerName: Layer 5 does not exist or has no name!
+03-10-3918 01:43:52.670> GetLayerName: Layer 5 does not exist or has no name!
+03-10-3918 01:43:52.670> GetLayerName: Layer 5 does not exist or has no name!
+03-10-3918 01:43:52.670> GetLayerName: Layer 5 does not exist or has no name!
+03-10-3918 01:43:52.675> GetLayerName: Layer 6 does not exist or has no name!
+03-10-3918 01:43:52.675> GetLayerName: Layer 6 does not exist or has no name!
+03-10-3918 01:43:52.675> GetLayerName: Layer 6 does not exist or has no name!
+03-10-3918 01:43:52.675> GetLayerName: Layer 6 does not exist or has no name!
+03-10-3918 01:43:52.680> GetLayerName: Layer 7 does not exist or has no name!
+03-10-3918 01:43:52.680> GetLayerName: Layer 7 does not exist or has no name!
+03-10-3918 01:43:52.680> GetLayerName: Layer 7 does not exist or has no name!
+03-10-3918 01:43:52.680> GetLayerName: Layer 7 does not exist or has no name!
+03-10-3918 01:43:52.686> GetLayerName: Layer 8 does not exist or has no name!
+03-10-3918 01:43:52.686> GetLayerName: Layer 8 does not exist or has no name!
+03-10-3918 01:43:52.686> GetLayerName: Layer 8 does not exist or has no name!
+03-10-3918 01:43:52.686> GetLayerName: Layer 8 does not exist or has no name!
+03-10-3918 01:43:52.691> GetLayerName: Layer 9 does not exist or has no name!
+03-10-3918 01:43:52.691> GetLayerName: Layer 9 does not exist or has no name!
+03-10-3918 01:43:52.691> GetLayerName: Layer 9 does not exist or has no name!
+03-10-3918 01:43:52.691> GetLayerName: Layer 9 does not exist or has no name!
+03-10-3918 01:44:16.190> Applying changes to X-Mouse Button Control settings...
+03-10-3918 01:44:16.191> Unable to find the default settings file 'G:\New folder\XMBCSettings.xml' (Error code 2: The system cannot find the file specified. )
+03-10-3918 01:44:16.191> SetupDialog: Settings file 'G:\New folder\XMBCSettings.xml' does not exist!
+03-10-3918 01:44:16.191> There is no existing settings file. Attempting to creating a new one.
+03-10-3918 01:44:16.196> Loaded 0 application specific profiles (0 normal and 0 custom window).
+03-10-3918 01:44:16.210> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+03-10-3918 01:44:16.217> Loaded 0 application specific profiles (0 normal and 0 custom window).
+03-10-3918 01:44:21.140> Exit requested by the user.
+03-10-3918 01:44:21.145> Removing any active XMBCHook Timers...
+03-10-3918 01:44:21.145> Timer thread exited with error code 0.
+03-10-3918 01:44:21.151> CSendInput: Exiting SendInput thread.
+03-10-3918 01:44:21.152> HookThread: Finished cleaning up.
+03-10-3918 01:44:21.152> Hook thread exited with error code 0.
+03-10-3918 01:44:21.152> X-Mouse Button Control Shutdown.
+
+
+*******************************************************************************************************************************************
+03-10-3918 01:44:23.315> X-Mouse Button Control v2.17 (x64) Startup. Commandline ''
+03-10-3918 01:44:23.316> Running in high integrity mode (0x00003000)
+03-10-3918 01:44:23.316> Loaded 0 application specific profiles (0 normal and 0 custom window).
+03-10-3918 01:44:23.316> NewApplicationSettings: SPIThread is not initialised.
+03-10-3918 01:44:23.316> Running on Microsoft Windows 10 Edition (build 14393), 64-bit, Hook Timeout: 200 ms
+03-10-3918 01:44:23.316> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+03-10-3918 01:44:23.316> Startup folder: 'G:\New folder\XMBCSettings.xml'
+03-10-3918 01:44:23.316> Enabling portable mode.
+03-10-3918 01:44:23.316> Creating/using settings file in 'G:\New folder\XMBCSettings.xml'
+03-10-3918 01:44:23.316> As X-Mouse Button Control is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+03-10-3918 01:44:23.317> Using keyboard language 0x04090409
+03-10-3918 01:44:26.742> MultInstance: Sending commandline to an existing instance of X-Mouse Button Control
+03-10-3918 01:44:26.742> Received 2048 bytes on the IPC named pipe.
+ating with the first instance of X-Mouse Button Control.
+03-10-3918 01:44:26.742> Received message with data 0x80000004 from another instance of X-Mouse Button Control.
+
+03-10-3918 01:44:26.761> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+03-10-3918 01:44:26.767> Loaded 0 application specific profiles (0 normal and 0 custom window).
+03-10-3918 01:44:33.207> Adding new application specific settings for 'client.exe'.
+03-10-3918 01:44:33.209> GetLayerName: Layer 0 does not exist or has no name!
+03-10-3918 01:44:33.209> GetLayerName: Layer 0 does not exist or has no name!
+03-10-3918 01:44:33.209> GetLayerName: Layer 0 does not exist or has no name!
+03-10-3918 01:44:33.209> GetLayerName: Layer 0 does not exist or has no name!
+03-10-3918 01:44:33.210> GetLayerName: Layer 1 does not exist or has no name!
+03-10-3918 01:44:33.210> GetLayerName: Layer 1 does not exist or has no name!
+03-10-3918 01:44:33.210> GetLayerName: Layer 1 does not exist or has no name!
+03-10-3918 01:44:33.210> GetLayerName: Layer 1 does not exist or has no name!
+03-10-3918 01:44:33.211> GetLayerName: Layer 2 does not exist or has no name!
+03-10-3918 01:44:33.211> GetLayerName: Layer 2 does not exist or has no name!
+03-10-3918 01:44:33.211> GetLayerName: Layer 2 does not exist or has no name!
+03-10-3918 01:44:33.211> GetLayerName: Layer 2 does not exist or has no name!
+03-10-3918 01:44:33.212> GetLayerName: Layer 3 does not exist or has no name!
+03-10-3918 01:44:33.212> GetLayerName: Layer 3 does not exist or has no name!
+03-10-3918 01:44:33.212> GetLayerName: Layer 3 does not exist or has no name!
+03-10-3918 01:44:33.212> GetLayerName: Layer 3 does not exist or has no name!
+03-10-3918 01:44:33.213> GetLayerName: Layer 4 does not exist or has no name!
+03-10-3918 01:44:33.213> GetLayerName: Layer 4 does not exist or has no name!
+03-10-3918 01:44:33.213> GetLayerName: Layer 4 does not exist or has no name!
+03-10-3918 01:44:33.213> GetLayerName: Layer 4 does not exist or has no name!
+03-10-3918 01:44:33.214> GetLayerName: Layer 5 does not exist or has no name!
+03-10-3918 01:44:33.214> GetLayerName: Layer 5 does not exist or has no name!
+03-10-3918 01:44:33.214> GetLayerName: Layer 5 does not exist or has no name!
+03-10-3918 01:44:33.214> GetLayerName: Layer 5 does not exist or has no name!
+03-10-3918 01:44:33.215> GetLayerName: Layer 6 does not exist or has no name!
+03-10-3918 01:44:33.215> GetLayerName: Layer 6 does not exist or has no name!
+03-10-3918 01:44:33.215> GetLayerName: Layer 6 does not exist or has no name!
+03-10-3918 01:44:33.215> GetLayerName: Layer 6 does not exist or has no name!
+03-10-3918 01:44:33.217> GetLayerName: Layer 7 does not exist or has no name!
+03-10-3918 01:44:33.217> GetLayerName: Layer 7 does not exist or has no name!
+03-10-3918 01:44:33.217> GetLayerName: Layer 7 does not exist or has no name!
+03-10-3918 01:44:33.217> GetLayerName: Layer 7 does not exist or has no name!
+03-10-3918 01:44:33.218> GetLayerName: Layer 8 does not exist or has no name!
+03-10-3918 01:44:33.218> GetLayerName: Layer 8 does not exist or has no name!
+03-10-3918 01:44:33.218> GetLayerName: Layer 8 does not exist or has no name!
+03-10-3918 01:44:33.218> GetLayerName: Layer 8 does not exist or has no name!
+03-10-3918 01:44:33.219> GetLayerName: Layer 9 does not exist or has no name!
+03-10-3918 01:44:33.219> GetLayerName: Layer 9 does not exist or has no name!
+03-10-3918 01:44:33.219> GetLayerName: Layer 9 does not exist or has no name!
+03-10-3918 01:44:33.219> GetLayerName: Layer 9 does not exist or has no name!
+03-10-3918 01:44:40.347> Applying changes to X-Mouse Button Control settings...
+03-10-3918 01:44:40.350> Loaded 1 application specific profiles (1 normal and 0 custom window).
+03-10-3918 01:44:45.673> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+03-10-3918 01:44:45.678> Loaded 1 application specific profiles (1 normal and 0 custom window).
+03-10-3918 01:44:46.987> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+03-10-3918 01:44:46.994> Loaded 1 application specific profiles (1 normal and 0 custom window).
+03-10-3918 01:44:50.003> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+03-10-3918 01:44:50.010> Loaded 1 application specific profiles (1 normal and 0 custom window).
+03-10-3918 01:44:52.283> MultInstance: Sending commandline to an existing instance of X-Mouse Button Control
+03-10-3918 01:44:52.284> MultInstance: Successfully finished communicating with the first instance of X-Mouse Button Control.
+03-10-3918 01:44:52.284> Received message with data 0x80000004 from another instance of X-Mouse Button Control.
+
+03-10-3918 01:44:52.301> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+03-10-3918 01:44:52.308> Loaded 1 application specific profiles (1 normal and 0 custom window).
+03-10-3918 01:44:55.002> You are using the latest available version of X-Mouse Button Control.
+03-10-3918 01:44:58.043> Exit requested by the user.
+03-10-3918 01:44:58.055> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+03-10-3918 01:44:58.061> Removing any active XMBCHook Timers...
+03-10-3918 01:44:58.061> Timer thread exited with error code 0.
+03-10-3918 01:44:58.067> CSendInput: Exiting SendInput thread.
+03-10-3918 01:44:58.067> HookThread: Finished cleaning up.
+03-10-3918 01:44:58.068> Hook thread exited with error code 0.
+03-10-3918 01:44:58.074> X-Mouse Button Control Shutdown.
+
+
+*******************************************************************************************************************************************
+03-10-3918 01:45:15.295> X-Mouse Button Control v2.17 (x64) Startup. Commandline ''
+03-10-3918 01:45:15.295> Running in high integrity mode (0x00003000)
+03-10-3918 01:45:15.295> Loaded 1 application specific profiles (1 normal and 0 custom window).
+03-10-3918 01:45:15.295> NewApplicationSettings: SPIThread is not initialised.
+03-10-3918 01:45:15.296> Running on Microsoft Windows 10 Edition (build 14393), 64-bit, Hook Timeout: 200 ms
+03-10-3918 01:45:15.296> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+03-10-3918 01:45:15.296> Startup folder: 'G:\New folder\XMBCSettings.xml'
+03-10-3918 01:45:15.296> Enabling portable mode.
+03-10-3918 01:45:15.296> Creating/using settings file in 'G:\New folder\XMBCSettings.xml'
+03-10-3918 01:45:15.296> As X-Mouse Button Control is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+03-10-3918 01:45:15.296> Using keyboard language 0x04090409
+03-10-3918 01:45:17.595> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+03-10-3918 01:45:17.601> Loaded 1 application specific profiles (1 normal and 0 custom window).
+03-10-3918 01:45:19.727> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+03-10-3918 01:45:19.731> Loaded 1 application specific profiles (1 normal and 0 custom window).
+03-10-3918 01:45:24.743> You are using the latest available version of X-Mouse Button Control.
