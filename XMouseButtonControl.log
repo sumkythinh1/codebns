@@ -172,3 +172,69 @@ ating with the first instance of X-Mouse Button Control.
 03-10-3918 01:45:19.727> CMyMessageWnd::OnSetup   -   Setup dialog closed.
 03-10-3918 01:45:19.731> Loaded 1 application specific profiles (1 normal and 0 custom window).
 03-10-3918 01:45:24.743> You are using the latest available version of X-Mouse Button Control.
+03-10-3918 01:46:17.515> Exit requested by the user.
+03-10-3918 01:46:17.522> Removing any active XMBCHook Timers...
+03-10-3918 01:46:17.522> Timer thread exited with error code 0.
+03-10-3918 01:46:17.528> CSendInput: Exiting SendInput thread.
+03-10-3918 01:46:17.528> HookThread: Finished cleaning up.
+03-10-3918 01:46:17.528> Hook thread exited with error code 0.
+03-10-3918 01:46:17.528> X-Mouse Button Control Shutdown.
+
+03-10-3918 01:48:44.084> MultInstance: Sending commandline to an existing instance of X-Mouse Button Control
+03-10-3918 01:48:44.084> MultInstance: Successfully finished communicating with the first instance of X-Mouse Button Control.
+
+
+*******************************************************************************************************************************************
+03-10-3918 01:48:52.587> X-Mouse Button Control v2.17 (x64) Startup. Commandline ''
+03-10-3918 01:48:52.587> Running in high integrity mode (0x00003000)
+03-10-3918 01:48:52.588> Loaded 1 application specific profiles (1 normal and 0 custom window).
+03-10-3918 01:48:52.588> NewApplicationSettings: SPIThread is not initialised.
+03-10-3918 01:48:52.588> Running on Microsoft Windows 10 Edition (build 14393), 64-bit, Hook Timeout: 200 ms
+03-10-3918 01:48:52.588> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+03-10-3918 01:48:52.588> Startup folder: 'G:\New folder\XMBCSettings.xml'
+03-10-3918 01:48:52.588> Enabling portable mode.
+03-10-3918 01:48:52.588> Creating/using settings file in 'G:\New folder\XMBCSettings.xml'
+03-10-3918 01:48:52.588> As X-Mouse Button Control is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+03-10-3918 01:48:52.589> Using keyboard language 0x04090409
+03-10-3918 01:48:56.388> Exit requested by the user.
+03-10-3918 01:48:56.393> Removing any active XMBCHook Timers...
+03-10-3918 01:48:56.393> Timer thread exited with error code 0.
+03-10-3918 01:48:56.397> CSendInput: Exiting SendInput thread.
+03-10-3918 01:48:56.398> HookThread: Finished cleaning up.
+03-10-3918 01:48:56.398> Hook thread exited with error code 0.
+03-10-3918 01:48:56.398> X-Mouse Button Control Shutdown.
+
+
+*******************************************************************************************************************************************
+03-10-3918 01:49:05.935> X-Mouse Button Control v2.17 (x64) Startup. Commandline ''
+03-10-3918 01:49:05.936> Running in high integrity mode (0x00003000)
+03-10-3918 01:49:05.936> Loaded 1 application specific profiles (1 normal and 0 custom window).
+03-10-3918 01:49:05.936> NewApplicationSettings: SPIThread is not initialised.
+03-10-3918 01:49:05.936> Running on Microsoft Windows 10 Edition (build 14393), 64-bit, Hook Timeout: 200 ms
+03-10-3918 01:49:05.936> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+03-10-3918 01:49:05.936> Startup folder: 'G:\New folder\XMBCSettings.xml'
+03-10-3918 01:49:05.936> Enabling portable mode.
+03-10-3918 01:49:05.936> Creating/using settings file in 'G:\New folder\XMBCSettings.xml'
+03-10-3918 01:49:05.936> As X-Mouse Button Control is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+03-10-3918 01:49:05.937> Using keyboard language 0x04090409
+03-10-3918 01:49:09.635> MultInstance: Sending commandline to an existing instance of X-Mouse Button Control
+03-10-3918 01:49:09.635> Received 2048 bytes on the IPC named pipe.
+03-10-3918 01:49:09.635> MultInstance: Successfully finished communicating with the first instance of X-Mouse Button Control.
+03-10-3918 01:49:09.635> Received message with data 0x80000004 from another instance of X-Mouse Button Control.
+
+03-10-3918 01:49:09.651> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+03-10-3918 01:49:09.658> Loaded 1 application specific profiles (1 normal and 0 custom window).
+03-10-3918 01:50:13.067> Applying changes to X-Mouse Button Control settings...
+03-10-3918 01:50:13.070> Loaded 1 application specific profiles (1 normal and 0 custom window).
+03-10-3918 01:50:27.195> Applying changes to X-Mouse Button Control settings...
+03-10-3918 01:50:27.199> Loaded 1 application specific profiles (1 normal and 0 custom window).
+03-10-3918 01:50:29.593> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+03-10-3918 01:50:29.601> Loaded 1 application specific profiles (1 normal and 0 custom window).
+03-10-3918 01:50:33.499> Exit requested by the user.
+03-10-3918 01:50:33.503> Removing any active XMBCHook Timers...
+03-10-3918 01:50:33.503> Timer thread exited with error code 0.
+03-10-3918 01:50:33.508> CSendInput: Exiting SendInput thread.
+03-10-3918 01:50:33.509> HookThread: Finished cleaning up.
+03-10-3918 01:50:33.509> Hook thread exited with error code 0.
+03-10-3918 01:50:33.509> X-Mouse Button Control Shutdown.
+
